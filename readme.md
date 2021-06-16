@@ -1,0 +1,1 @@
+Don't create random.py to run your project because its create a name conflit between python original random.py file and your random.py file.
